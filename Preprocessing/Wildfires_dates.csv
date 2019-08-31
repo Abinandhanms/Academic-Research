@@ -1,0 +1,48 @@
+ID,Wildfire_type,Year,Month,Start_Date,End_Date,Place,Latitude,Longitude
+1,Lighting Fire,2010,July,28th,1st Aug,Cariboo,54.02681,-123.947807
+2,Summer Fire,2012,Octomber,1st,31st,west of Clinton,50.813174,-121.324211
+3,Summer Fire,2012,Octomber,1st,31st,Peachland,49.766667,-119.75
+4,Summer Fire,2012,Octomber,1st,31st,Fort Nelson,58.806285,-122.693959
+5,Lighting Fire,2013,May,1st,31st,Ashcroft,50.721241,-121.283544
+6,Lighting Fire,2013,May,1st,31st,Tweedsmuir North Provincial Park,49.281361,-123.122793
+7,Climate,2014,July,15th ,31st aug,Quesnel,52.979428,-122.493627
+8,Climate,2014,July,15th ,31st aug,Bull Canyon,49.26094,-123.24713
+9,Climate,2014,July,15th ,31st aug,Chezacut,52.156779,-123.715281
+10,Climate,2015,May,9th ,9th ,Little Bobtail Lake fire at southwest of Prince George,53.871914,-123.479109
+11,Climate,2015,July,8th,8th,Puntzi Lake,52.208042,-124.055797
+12,Climate,2015,June,14th,14th,Elaho,50.113448,-123.386444
+13,Climate,2015,June,14th,14th,Boulder Creek,49.539781,-115.755509
+14,Climate,2015,July,1st,1st,Cougar Creek,50.209342,-126.595777
+15,Climate,2015,July,4th ,4th ,Dog Mountain,49.161131,-121.951489
+16,Climate,2015,August,1st,1st,Wood Lake,50.03652,-119.40214
+17,Climate,2015,August,3rd,3rd,Old Sechelt Mine,54.59471,-128.54665
+18,Climate,2015,June,11th,11th,Cisco Road,50.14597,-121.57292
+19,Climate,2015,July,8th,8th,Huckleberry Road,49.42771,-123.64706
+20,Climate,2015,August,5th,5th,Westside Road,50.6412,-117.54325
+21,Climate,2015,August,13th,13th,Sidley Mountain,49.02903,-119.25659
+22,Climate,2015,August,14th,14th,Wilsons Mountain,52.46949,-121.19687
+23,Climate,2015,August,14th,14th,Testalinden Creek,50.91118,-119.43535
+24,Climate,2015,July,5th,5th,Big Beaver Creek,53.16601,-121.45265
+25,Climate,2015,July,4th,4th,Sitkum Creek,49.81488,-125.03448
+26,Climate,2015,August,13th,13th,Rock Creek,49.20665,-119.00507
+27,Climate,2015,August,11th,11th,Stickpin,54.86665,-128.36853
+28,Climate,2016,April,18th,18th,Baldonnel,56.27903,-120.69588
+29,Climate,2016,April,18th,18th,Beatton Airport Road,56.6463,-121.20407
+30,Climate,2016,April,19th,19th,Halfway River,56.78182,-123.87048
+31,Climate,2016,August,21st,21st,Bear Creek,59.63127,-133.68331
+32,Climate,2016,August,31st,31st,South Spencer Road,50.19408,-121.59316
+33,Climate,2017,July,6th,6th,Elephant Hill,49.267269,-123.1194
+34,Climate,2017,July,7th,7th,Princeton,49.45813,-120.50519
+35,Climate,2017,July,7th,7th,Little Fort Complex (Thuya Lake),52.17482,-119.9843
+36,Climate,2017,July,23rd,23rd,Diamond Creek,55.75479,-120.04333
+37,Climate,2017,August,24th,24th,Philpott Road,49.87119,-119.16039
+38,Climate,2017,September,2nd,2nd,Finlay Creek,58.99362,-123.90609
+39,Climate,2017,July,6th,7th,Plateau Complex,51.30368,-121.3974
+40,Climate,2017,July,6th,7th,Hanceville Complex,51.93811,-122.98102
+41,Climate,2017,July,6th,7th,Central Cariboo Complex,49.12513,-116.58533
+42,Climate,2017,July,27th,27th,Harrop Creek,49.60099,-117.05016
+43,Climate,2017,August,28th,28th,Lamb Creek,49.35676,-115.85358
+44,Climate,2017,July,29th,29th,White River,50.25636,-125.943
+45,Climate,2017,August,30th,30th,Kenow Mountain,50.87804,-119.90687
+46,Climate,2018,July,31st,31st,Nadina Lake,54.05759,-124.8563
+47,Climate,2018,August,6th,6th,Alkali Lake with South Stikine River,51.78542,-122.23159

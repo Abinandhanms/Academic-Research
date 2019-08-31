@@ -1,0 +1,6 @@
+NDVI = https://drive.google.com/drive/folders/14RfJAeowq4BQDLKvgcs8IQYe6ryAwV9X?usp=sharing
+LST = https://drive.google.com/drive/folders/1UY3QHd2IKeiCmTWA6yV7blrFjQz0xCDn?usp=sharing
+BA = https://drive.google.com/drive/folders/14YEeZKwsy2LGPHLe9Zm0fZAN11se_mm1?usp=sharing
+
+SM = https://drive.google.com/drive/folders/1uC6oMacLKz6187IfvFJYo0QPZTUiWpgn?usp=sharing
+SUSM = https://drive.google.com/drive/folders/1jZRaaAfOalpyw-YytJzh6nKjcIuqKG74?usp=sharing
